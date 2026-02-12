@@ -21,4 +21,20 @@
 - seen MathSense Project structure and understood it
 - Know about pipenv
 - Watching Qdrant course which is avaialable on their website for the project
-- 
+
+### 12-02-2026 - Thursday 
+- Learned about concepts of Vectors and its types
+- learned about dimesionality -small,med,large
+- learned about payloads in vector db , type of paylaoads
+- learned about similarities , cos,dot,euclid,manhattan
+- learned about different types of chunkings ex:
+        1. Fixed-Size Chunking
+        2. Sentence-Based Chunking
+        3. Paragraph-Based Chunking
+        4. Sliding Window Chunking
+        5. Recursive Chunking
+        6. Semantic-Aware Ch
+- project - basics of vector search in QDrant
+- project - movie recommendation system in QDrant
+- started mathsense
+
