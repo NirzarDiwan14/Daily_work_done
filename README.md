@@ -38,3 +38,19 @@
 - project - movie recommendation system in QDrant
 - started mathsense
 
+### 13-02-2026 - Friday 
+- Learned about Sparse vectors and its types ex: basic, Splade++
+- Learned about vector quantization. Making the vector small by giving 0/1. Types: Scaler,Binary,Product
+- completed assignment of documentation search engine using qdrant and got certificate
+- worked on mathsense - created 3 different files which works on retrieving the data from qdrant from give list of query keywords
+- in-time - 10am || out-time - 6.45pm
+
+
+
+### 13-02-2026 - Monday
+-Started Doing NLP Cards 
+
+
+
+
+
