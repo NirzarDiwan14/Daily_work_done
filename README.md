@@ -45,8 +45,6 @@
 - worked on mathsense - created 3 different files which works on retrieving the data from qdrant from give list of query keywords
 - in-time - 10am || out-time - 6.45pm
 
-
-
 ### 16-02-2026 - Monday
 - Started Doing NLP Cards
 - gone to the session of ramesh sir 
@@ -56,4 +54,4 @@
 ### 17-02-2026 - Tuesday
 - Done mathsense in first half 
 - learned langchain basics like model , prompt templates , output parsers and chains
-- in-time - 10am || out-time 6.45pm 
+- in-time - 10am || out-time 7pm 
