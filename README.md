@@ -47,10 +47,13 @@
 
 
 
-### 13-02-2026 - Monday
--Started Doing NLP Cards 
+### 16-02-2026 - Monday
+- Started Doing NLP Cards
+- gone to the session of ramesh sir 
+- done some debugging into the project
+- in-time - 10am || out-time 7.50pm 
 
-
-
-
-
+### 17-02-2026 - Tuesday
+- Done mathsense in first half 
+- learned langchain basics like model , prompt templates , output parsers and chains
+- in-time - 10am || out-time 6.45pm 
