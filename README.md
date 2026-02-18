@@ -54,4 +54,12 @@
 ### 17-02-2026 - Tuesday
 - Done mathsense in first half 
 - learned langchain basics like model , prompt templates , output parsers and chains
-- in-time - 10am || out-time 7pm 
+- in-time - 10am || out-time 7pm
+
+### 18-02-2026 - Thursday
+- Learnded langchain
+- Learned about document loaders ,text splitters ,embeddings ,vector stores ,retrievers , RAGs,agents
+- Done all the things practically
+- made a simple basic chatbot and RAG
+- in-time - 11.30 am || out-time 7.30pm 
+
