@@ -63,9 +63,10 @@
 - made a simple basic chatbot and RAG
 - in-time - 11.30 am || out-time 7.30pm
 
-  ### 19-02-2026 - thursday
+### 19-02-2026 - thursday
 - Learnded LangGraph
 - done the practical on nodes , edges ,tools ,messages ,orchestration workflows ,parallel workflows ,pydantic structured outputs
 - Also done a practical course on multi agent system on datacamp website,it tought me how to build multi agent system in langgraph ecosystem.
+- Worked on how to get the results via schema provided by other team mates 
 - in-time - 10.00 am || out-time 7.30pm
 
