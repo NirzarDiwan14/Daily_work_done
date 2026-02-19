@@ -56,10 +56,16 @@
 - learned langchain basics like model , prompt templates , output parsers and chains
 - in-time - 10am || out-time 7pm
 
-### 18-02-2026 - Thursday
+### 18-02-2026 - Wednesday
 - Learnded langchain
 - Learned about document loaders ,text splitters ,embeddings ,vector stores ,retrievers , RAGs,agents
 - Done all the things practically
 - made a simple basic chatbot and RAG
-- in-time - 11.30 am || out-time 7.30pm 
+- in-time - 11.30 am || out-time 7.30pm
+
+  ### 19-02-2026 - thursday
+- Learnded LangGraph
+- done the practical on nodes , edges ,tools ,messages ,orchestration workflows ,parallel workflows ,pydantic structured outputs
+- Also done a practical course on multi agent system on datacamp website,it tought me how to build multi agent system in langgraph ecosystem.
+- in-time - 10.00 am || out-time 7.30pm
 
