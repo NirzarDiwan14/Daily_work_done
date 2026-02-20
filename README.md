@@ -70,3 +70,7 @@
 - Worked on how to get the results via schema provided by other team mates 
 - in-time - 10.00 am || out-time 7.30pm
 
+### 20-02-2026 - Friday
+- worked on mathsense
+- in-time - 10.05 am || out-time 6pm
+
